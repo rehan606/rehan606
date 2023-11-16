@@ -1,16 +1,32 @@
-### Hi there 👋
+![Web-Designer](https://media.licdn.com/dms/image/D5616AQHrCwSNBXyTcQ/profile-displaybackgroundimage-shrink_350_1400/0/1678006988618?e=1705536000&v=beta&t=kpCwmfwdjzEbhszEC6JP_soTgIOi8hzSyidfd-GFyYg)
 
-<!--
-**rehan606/rehan606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Rehan
+#### Web-Designer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Front End Web developer who is passionate about making error- free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind.  I pride myself on doing quality work and maintain excellent communication. Most of the time I work with HTML, CSS and JavaScript but some technologies I enjoy working with include Django as well as Python.
+
+Skills:  HTML / CSS/ JavaScripts / Python / Django
+
+- 🌱 I’m currently learning Python And Django 
+- 👯 I’m looking to collaborate on Linkedin and Github 
+- 💬 Ask me about Web-Design 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rehan606)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/kh-rehan207/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kh.rehan207)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rehan606)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan606)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rehan606&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rehan606)  
+
+![GitHub metrics](https://metrics.lecoq.io/rehan606)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606)  
+
+![Profile views](https://gpvc.arturio.dev/rehan606)  
