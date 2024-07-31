@@ -21,6 +21,9 @@
 ###
 
 
+🌱🌱🌱
+🌱🌱
+🌱
 <p align="left">🌱 I’m currently learning Python And Django 
   <br>👯 I’m looking to collaborate on Linkedin and Github
   <br>💬 Ask me about Frontend Development</p>
@@ -88,17 +91,16 @@
 <img src="https://raw.githubusercontent.com/rehan606/rehan606/output/snake.svg" alt="Snake animation" />
 -->
 
-
+<hr>
 <div align="center">
   <img src="https://profile-counter.glitch.me/rehan606/count.svg?"  />
 </div>
 
-###
+
 <hr>
 
-<div align="center">
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) 
-</div>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) 
+
 
 
 <!--
