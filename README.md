@@ -11,8 +11,8 @@
 <p align="left">I'm a Front End Web developer who is passionate about making error- free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with HTML, CSS and JavaScript but some technologies I enjoy working with include Django as well as Python.</p>
 
 ###
-
-<h4 align="center">Skills: HTML / CSS/ JavaScripts / Python / Django</h4>
+<hr>
+<h4 align="center" border="1px solid #ffffff" padding="15px" >Skills: HTML / CSS/ JavaScripts / Python / Django</h4>
 <hr>
 
 
@@ -21,8 +21,9 @@
 ###
 
 
-
-<p align="left">🌱 I’m currently learning Python And Django<br>👯 I’m looking to collaborate on Linkedin and Github<br>💬 Ask me about Frontend Development</p>
+<p align="left">🌱 I’m currently learning Python And Django 
+  <br>👯 I’m looking to collaborate on Linkedin and Github
+  <br>💬 Ask me about Frontend Development</p>
 
 ###
 
@@ -45,8 +46,7 @@
   </a>
 </div>
 
-###
-........................................................................................................
+
 
 
 
