@@ -14,7 +14,7 @@
 
 <h4 align="center">Skills: HTML / CSS/ JavaScripts / Python / Django</h4>
 <hr>
-###
+
 
 <img align="right" height="200" src="https://shorturl.at/jyK7x"  />
 
@@ -51,7 +51,7 @@
 <br clear="both">
 
 
-
+<hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rehan606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehan606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -82,9 +82,10 @@
 </div>
 
 ###
-
+<hr>
+<!--  Snake AnimAtion
 <img src="https://raw.githubusercontent.com/rehan606/rehan606/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <div align="center">
@@ -92,17 +93,17 @@
 </div>
 
 ###
-
+<hr>
 [![trophy](https://github-profile-trophy.vercel.app/?username=rehan606)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan606)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rehan606&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rehan606)  
 
-![GitHub metrics](https://metrics.lecoq.io/rehan606)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606)  
+![GitHub metrics](https://metrics.lecoq.io/rehan606)   
 
 ![Profile views](https://gpvc.arturio.dev/rehan606)  
+-->
