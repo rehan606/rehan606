@@ -20,6 +20,8 @@
 
 ###
 
+
+
 <p align="left">🌱 I’m currently learning Python And Django<br>👯 I’m looking to collaborate on Linkedin and Github<br>💬 Ask me about Frontend Development</p>
 
 ###
@@ -44,7 +46,7 @@
 </div>
 
 ###
-......................................................................................................
+........................................................................................................
 
 
 
@@ -81,12 +83,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
-<hr>
+
 <!--  Snake AnimAtion
 <img src="https://raw.githubusercontent.com/rehan606/rehan606/output/snake.svg" alt="Snake animation" />
 -->
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/rehan606/count.svg?"  />
@@ -94,10 +95,12 @@
 
 ###
 <hr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=rehan606)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan606)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) 
+<div align="center">
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) 
+</div>
+
+
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rehan606&show_icons=true)  
 
