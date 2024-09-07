@@ -18,11 +18,11 @@
 <br/>
 <br/>
 
-<p align="center"> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://rehan606.github.io/Personal-Portfolio/)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/) </p>
+***<p align="center"> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://rehan606.github.io/Personal-Portfolio/)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/)</p>***
 
 <br/>
 <br/>
-###
+
 <hr>
 <h4 align="center" border="1px solid #ffffff" padding="15px" >Skills: HTML / CSS/ JavaScripts / Python / Django</h4>
 <hr>
