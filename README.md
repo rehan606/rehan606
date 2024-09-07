@@ -47,13 +47,12 @@
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JWT.png"/>
 </p>
 
-<br />
+
 ## :bulb: Social Links:
 
 <img align="right" height="230" border="5" border-radious="50" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  />
 
 ###
-
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kh-rehan207/" target="_blank">
