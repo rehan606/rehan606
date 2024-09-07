@@ -17,7 +17,7 @@
 <hr>
 
 
-<img align="right" height="230" border="1" border-radious="8px" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  />
+<img align="right" height="230" border="5" border-radious="50" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  />
 
 ###
 
