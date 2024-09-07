@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D5622AQH0HHt_asUu_A/feedshare-shrink_2048_1536/0/1722542535765?e=1725494400&v=beta&t=236DrimwPtzUlyODZl0-WQnK6ZhLfvxoTMvoCneAggU"  />
+  <img height="200" src="[https://media.licdn.com/dms/image/D5622AQH0HHt_asUu_A/feedshare-shrink_2048_1536/0/1722542535765?e=1725494400&v=beta&t=236DrimwPtzUlyODZl0-WQnK6ZhLfvxoTMvoCneAggU](https://github.com/rehan606/rehan606/blob/main/Images/GitHub%20Banner.png)"  />
 </div>
 
 
@@ -17,7 +17,7 @@
 <hr>
 
 
-<img align="right" height="230" border="1" border-radious="8px" src="https://shorturl.at/jyK7x"  />
+<img align="right" height="230" border="1" border-radious="8px" src="[https://shorturl.at/jyK7x](https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg)"  />
 
 ###
 
