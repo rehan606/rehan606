@@ -22,7 +22,7 @@
 
 <br/>
 <br/>
-
+###
 <hr>
 <h4 align="center" border="1px solid #ffffff" padding="15px" >Skills: HTML / CSS/ JavaScripts / Python / Django</h4>
 <hr>
