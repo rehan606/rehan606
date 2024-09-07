@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" width="1000" src="https://github.com/rehan606/rehan606/blob/main/Images/GitHub%20Banner.png?raw=true"  />
+  <img height="300" width="1000" src="https://github.com/rehan606/rehan606/blob/main/Images/GitHub%20Banner.png?raw=true"  />
 </div>
 
 
@@ -10,7 +10,23 @@
 ###
 
 <p align="left">I'm a Front End Web developer who is passionate about making error- free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with HTML, CSS and JavaScript but some technologies I enjoy working with include Django as well as Python.</p>
+<br/>
+<br/>
 
+## :mailbox: Contact with Me
+
+<br/>
+<br/>
+
+***<p align="center"> 
+[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://rehan606.github.io/Personal-Portfolio/)
+
+[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)
+
+[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/) </p>***
+
+<br/>
+<br/>
 ###
 <hr>
 <h4 align="center" border="1px solid #ffffff" padding="15px" >Skills: HTML / CSS/ JavaScripts / Python / Django</h4>
