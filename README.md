@@ -23,9 +23,30 @@
 <br/>
 <br/>
 
-<hr>
-<h4 align="center" border="1px solid #ffffff" padding="15px" >Skills: HTML / CSS/ JavaScripts / Python / Django</h4>
-<hr>
+## :bulb: My Skills
+
+<p align="center">
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/HTML.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/CSS.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Bootstrap.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Tailwind.png"/>
+</p>
+
+## :bulb: I am Learning...
+<p align="center">
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JavaScript.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/React.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/ReactRouterDom.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Firebase.png"/>
+</p>
+<p align="center">
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Nodejs.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Express.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/MongoDB.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JWT.png"/>
+</p>
+
+<br />
 
 
 <img align="right" height="230" border="5" border-radious="50" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  />
