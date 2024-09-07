@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="[https://media.licdn.com/dms/image/D5622AQH0HHt_asUu_A/feedshare-shrink_2048_1536/0/1722542535765?e=1725494400&v=beta&t=236DrimwPtzUlyODZl0-WQnK6ZhLfvxoTMvoCneAggU](https://github.com/rehan606/rehan606/blob/main/Images/GitHub%20Banner.png)"  />
+  <img height="200" src="https://github.com/rehan606/rehan606/blob/main/Images/GitHub%20Banner.png?raw=true"  />
 </div>
 
 
