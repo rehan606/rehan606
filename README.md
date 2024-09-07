@@ -47,23 +47,12 @@
 </p>
 
 <br />
-
+## :bulb: Social Links:
 
 <img align="right" height="230" border="5" border-radious="50" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  />
 
 ###
 
-
-🌱🌱🌱
-🌱🌱
-🌱
-<p align="left">🌱 I’m currently learning Python And Django 
-  <br>👯 I’m looking to collaborate on Linkedin and Github
-  <br>💬 Ask me about Frontend Development</p>
-
-###
-
-<h4> Social Profile Links </h4>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kh-rehan207/" target="_blank">
