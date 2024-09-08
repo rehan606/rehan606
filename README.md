@@ -85,10 +85,6 @@
 
 ###
 
-
-<!--  Snake AnimAtion
-<img src="https://raw.githubusercontent.com/rehan606/rehan606/output/snake.svg" alt="Snake animation" />
--->
 ## 🧍: Profile Visit
 <div align="center">
   <img src="https://profile-counter.glitch.me/rehan606/count.svg?"  />
@@ -99,12 +95,8 @@
 
 <img align="right" height="200" border="5" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  /> ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) 
 
+ Snake AnimAtion
+<img src="https://raw.githubusercontent.com/rehan606/rehan606/output/snake.svg" alt="Snake animation" />
 
 
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rehan606&show_icons=true)  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rehan606)  
-
-![GitHub metrics](https://metrics.lecoq.io/rehan606)   ![Profile views](https://gpvc.arturio.dev/rehan606)  
 
