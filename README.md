@@ -102,6 +102,8 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) 
 
+<img align="right" height="230" border="5" border-radious="50" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  />
+
 
 
 <!--
