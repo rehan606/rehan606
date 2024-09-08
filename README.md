@@ -50,7 +50,7 @@
 
 ## 🔗: Social Links:
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/kh-rehan207/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -96,7 +96,7 @@
 
 <hr>
 
-<img align="right" height="230" border="5" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  /> ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) 
+<img align="right" height="180" border="5" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  /> ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) 
 
 
 
