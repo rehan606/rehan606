@@ -103,7 +103,7 @@
 
 
 
-<!--
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rehan606&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rehan606)  
@@ -111,4 +111,4 @@
 ![GitHub metrics](https://metrics.lecoq.io/rehan606)   
 
 ![Profile views](https://gpvc.arturio.dev/rehan606)  
--->
+
