@@ -123,9 +123,6 @@
 
 
 ## 📊: Streak and Contributions
-<img width=390 src="https://github-readme-streak-stats-rehan606.vercel.app/?user=rehan606&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-rehan606.vercel.app/api?username=rehan606&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
 
 <img align="right" height="200" border="5" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  /> ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) 
 
