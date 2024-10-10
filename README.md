@@ -95,6 +95,7 @@
 ###
 
 ## 🧍: Profile Visit
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rehan606.rehan606" />
 <div align="center">
   <img src="https://profile-counter.glitch.me/rehan606/count.svg?"  />
 </div>
