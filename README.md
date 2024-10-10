@@ -65,6 +65,22 @@
 ## 🔗: Social Links:
 
 ###
+<div align="center"> 
+  <a href="rehanlemu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  
+  <a href="https://linkedin.com/in/kh-rehan207" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+  <a href="https://rehan606.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
+
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/kh-rehan207/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
