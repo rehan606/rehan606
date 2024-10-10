@@ -90,6 +90,10 @@
   <a href="https://rehan606.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
+  <!-- Twitter -->
+  <a href="https://x.com/kh_rehan207" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> 
+  </a>
 </div>
 
 
