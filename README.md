@@ -49,11 +49,12 @@
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/CSS.png"/>
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Bootstrap.png"/>
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Tailwind.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JavaScript.png"/>
 </p>
 
 ## :bulb: I am Learning...
 <p align="center">
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JavaScript.png"/>
+
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/React.png"/>
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/ReactRouterDom.png"/>
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Firebase.png"/>
