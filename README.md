@@ -30,9 +30,9 @@
 |--------------------------|-----------------------------------------------------------------|
 | 🛠️ **Frontend Development** | HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, DaisyUI, ReactJS |
 | 🔗 **Backend & Database**   | Firebase, MongoDB, ExpressJS                                    |
-| 🧩 **Other Technologies**   | Python, Django                                                  |
 | ⚙️ **Tools & Libraries**    | Git, RESTful APIs, DOM Manipulation                             |
 | 🚀 **Additional Expertise** | Responsive Design, API Integration, Debugging                   |
+| 🧩 **Other Technologies**   | Python, Django                                                  |
 
 </div>
 
