@@ -24,6 +24,8 @@
 <br/>
 <br/>
 
+<div align="center">
+
 | **Category**             | **Skills**                                                      |
 |--------------------------|-----------------------------------------------------------------|
 | 🛠️ **Frontend Development** | HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, DaisyUI, ReactJS |
@@ -32,8 +34,7 @@
 | ⚙️ **Tools & Libraries**    | Git, RESTful APIs, DOM Manipulation                             |
 | 🚀 **Additional Expertise** | Responsive Design, API Integration, Debugging                   |
 
-
-
+</div>
 
 
 <br/>
