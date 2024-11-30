@@ -19,7 +19,16 @@
 
 ###
 
-<p align="left">I'm a Front End Web developer who is passionate about making error- free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with HTML, CSS and JavaScript but some technologies I enjoy working with include Django as well as Python.</p>
+<p align="left">I am a Frontend Web Developer dedicated to creating error-free websites and ensuring 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as openly as possible. I love solving real-world problems. I am strategic, goal-oriented, and always work with a specific objective in mind. I take pride in delivering high-quality work and maintaining excellent communication.</p>
+
+## 🛠️ Skills
+
+- **Frontend Development**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, DaisyUI, ReactJS
+- **Backend & Database**: Firebase, MongoDB, ExpressJS
+- **Other Technologies**: Python, Django
+- **Tools & Libraries**: Git, RESTful APIs, DOM Manipulation
+- **Additional Expertise**: Responsive Design, API Integration, Debugging
+
 <br/>
 <br/>
 <p align="center"> :mailbox: Contact with Me </p>
