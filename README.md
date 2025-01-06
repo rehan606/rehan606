@@ -14,7 +14,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Rehan!;" /> <br>
   <span align="center">Creative Frontend Web-Developer !</span>
-  <h3 align="center"><a href="https://kh-rehan-portfolio.netlify.app/">Portfolio</a> </h3>
+  <h3 align="center"><a href="https://kh-rehan-portfolio.netlify.app/">Portfolio</a> </h3> https://img.shields.io/badge/Portfolio-My%20Projects-blue?style=for-the-badge&logo=Portfolio&logoColor=white
+
 </h1>
  
 
