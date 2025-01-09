@@ -147,7 +147,8 @@
 
 ## 📊: Streak and Contributions
 
-<img align="right" height="200" border="5" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  /> ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) 
+<img align="right" height="200" border="5" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  /> [![GitHub Streak](https://streak-stats.demolab.com/?user=rehan606&theme=nightowl)](https://git.io/streak-stats)
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) -->
 
 
 
