@@ -43,7 +43,7 @@
 <br/>
 <p align="center"> :mailbox: Contact with Me </p>
 
-***<p align="center"> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://rehan606.github.io/Personal-Portfolio/)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/)</p>***
+***<p align="center"> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://kh-rehan-portfolio.netlify.app/)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/)</p>***
 <br/>
 <br/>
 
@@ -70,20 +70,19 @@
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/CSS.png"/>
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Bootstrap.png"/>
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Tailwind.png"/>
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JavaScript.png"/>
+
 </p>
 <p align="center">
-
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JavaScript.png"/>
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/React.png"/>
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/ReactRouterDom.png"/>
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Firebase.png"/>
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Nodejs.png"/>
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Express.png"/>
+
 </p>
 
-## :bulb: I am Learning...
-
 <p align="center">
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Nodejs.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Express.png"/>
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/MongoDB.png"/>
 <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JWT.png"/>
 </p>
@@ -131,10 +130,24 @@
 
 
 ## 🌼: GitHub Repository Status
+
+<p align="center">
+
+<a href="https://github.com/rehan606?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=rehan606&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/rehan606?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=rehan606&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/rehan606?tab=stars#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=rehan606&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+<a href="https://github.com/rehan606?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=rehan606&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+
+</p>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rehan606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehan606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+
+
 
 ###
 
@@ -166,14 +179,6 @@
 
 
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
-
-
-<p align="center">
-    <a href="https://www.codewars.com/users/rehan606">
-        <img alt="codewars badge" src="https://www.codewars.com//users/rehan606/badges/large">
-    </a>
-</p>
-
 
 
 
