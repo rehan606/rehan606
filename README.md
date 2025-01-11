@@ -25,6 +25,12 @@
 
 <br/>
 <br/>
+<!--Portfolio image-->
+<p align="center"><img src="https://i.ibb.co.com/8MBfnLr/KH-Rehan.png" alt="KH-Rehan" border="0"></p>
+
+<!--Color Border -->
+<a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
+
 
 <div align="center">
 
@@ -38,6 +44,8 @@
 
 </div>
 
+<!--Color Border -->
+<a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
 
 <br/>
 <br/>
@@ -47,9 +55,7 @@
 <br/>
 <br/>
 
-<!--Portfolio image-->
-<p align="center"><img src="https://i.ibb.co.com/8MBfnLr/KH-Rehan.png" alt="KH-Rehan" border="0"></p>
-<!--
+
 ## :mailbox: Contact with Me
 
 
@@ -154,13 +160,6 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-<p align="center">
-<a href="https://wakatime.com/@Voko#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://wakatime.com/@Voko#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=rehan606&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=rehan606&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
-</p>
-
 
 <!-- OLD GITHUB STATS
 <div align="center">
@@ -172,12 +171,6 @@
 
 
 ###
-
-## 🧍: Profile Visit
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rehan606.rehan606" />
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rehan606/count.svg?"  />
-</div>
 
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
 
