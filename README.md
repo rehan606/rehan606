@@ -13,8 +13,8 @@
 <!--<h4 align="center">Hi there 👋, I'm Rehan<br>Creative Frontend Web-Developer !</h4>-->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Rehan!;" /> <br>
-  <p align="center">Creative Frontend Web-Developer !</p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Experienced-%20Experienced%20React%20nodeJS,%20MongoDB,%20Firebase, Javascript;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <p align="center">Creative Frontend Web-Developer !</p> Experienced:
+  <img src="https://readme-typing-svg.demolab.com/?lines=Experienced-%20React%20nodeJS,%20MongoDB,%20Firebase, Javascript;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   
   <h3 align="center"><a href="https://kh-rehan-portfolio.netlify.app/">Portfolio</a> 
 
