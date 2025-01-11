@@ -25,8 +25,17 @@
 
 <p align="left">I am a Frontend Web Developer dedicated to creating error-free websites and ensuring 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as openly as possible. I love solving real-world problems. I am strategic, goal-oriented, and always work with a specific objective in mind. I take pride in delivering high-quality work and maintaining excellent communication.</p>
 
+###
 <!-- Social Links-->
 <div align="center"> 
+  <!-- Portfolio-->
+  <a href="https://kh-rehan-portfolio.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  <!-- LinkedIn-->
+  <a href="https://linkedin.com/in/kh-rehan207" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
   <!-- FaceBook-->
   <a href="https://www.facebook.com/kh.rehan207">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -35,10 +44,6 @@
   <a href="mailto::rehanlemu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <!-- LinkedIn-->
-  <a href="https://linkedin.com/in/kh-rehan207" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
   <!-- WhatsApp-->
   <a href="https://wa.me/01822182207" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
@@ -46,10 +51,6 @@
   <!-- Messenger-->
   <a href="https://www.facebook.com/kh.rehan207" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank" />
-  </a>
-  <!-- Portfolio-->
-  <a href="https://kh-rehan-portfolio.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
   <!-- Twitter -->
   <a href="https://x.com/kh_rehan207" target="_blank">
@@ -161,11 +162,9 @@
 <!--Color Border -->
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
 
-## 🧍: Profile Visit
+## 🧍: Profile Visitors:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rehan606.rehan606" />
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rehan606/count.svg?"  />
-</div>
+
 
 <!--Color Border -->
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
