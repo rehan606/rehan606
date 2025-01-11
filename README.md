@@ -47,53 +47,6 @@
 <!--Color Border -->
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
 
-<br/>
-<br/>
-<p align="center"> :mailbox: Contact with Me </p>
-
-***<p align="center"> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://kh-rehan-portfolio.netlify.app/)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/)</p>***
-<br/>
-<br/>
-
-
-## :mailbox: Contact with Me
-
-
-<br/>
-<br/>
-
-***<p align="center"> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://rehan606.github.io/Personal-Portfolio/)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/)</p>***
-
-<br/>
-<br/>
--->
-
-## :bulb: My Skills
-
-
-<p align="center">
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/HTML.png"/>
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/CSS.png"/>
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Bootstrap.png"/>
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Tailwind.png"/>
-
-</p>
-<p align="center">
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JavaScript.png"/>
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/React.png"/>
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/ReactRouterDom.png"/>
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Firebase.png"/>
-
-</p>
-
-<p align="center">
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Nodejs.png"/>
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Express.png"/>
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/MongoDB.png"/>
-<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JWT.png"/>
-</p>
-
-
 ## 🔗: Social Links:
 
 ###
@@ -128,12 +81,49 @@
   </a>
 </div>
 
+<!--Color Border -->
+<a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
+
+## :mailbox: Contact with Me
+<br/>
+<br/>
+
+***<p align="center"> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://rehan606.github.io/Personal-Portfolio/)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/)</p>***
+
+<br/>
+<br/>
+-->
+<!--Color Border -->
+<a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
+
+## :bulb: My Skills
 
 
+<p align="center">
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/HTML.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/CSS.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Bootstrap.png"/> 
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Tailwind.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JavaScript.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/React.png"/>
+</p>
 
+<p align="center">
+
+
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/ReactRouterDom.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Firebase.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Nodejs.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Express.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/MongoDB.png"/>
+<img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JWT.png"/>
+
+</p>
 
 <br clear="both">
 
+<!--Color Border -->
+<a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
 
 ## 🌼: GitHub Repository Status
 
@@ -160,18 +150,7 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-
-<!-- OLD GITHUB STATS
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rehan606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehan606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div> 
--->
-
-
-
-###
-
+<!--Color Border -->
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
 
 ## 📊: Streak and Contributions
@@ -189,11 +168,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rehan606&theme=nightowl)](https://git.io/streak-stats)
  ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) -->
 
-
-
-
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
 
+## 🧍: Profile Visit
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rehan606.rehan606" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rehan606/count.svg?"  />
+</div>
 
 
 
