@@ -25,33 +25,7 @@
 
 <p align="left">I am a Frontend Web Developer dedicated to creating error-free websites and ensuring 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as openly as possible. I love solving real-world problems. I am strategic, goal-oriented, and always work with a specific objective in mind. I take pride in delivering high-quality work and maintaining excellent communication.</p>
 
-<br/>
-<br/>
-<!--Portfolio image-->
-<p align="center"><img src="https://i.ibb.co.com/8MBfnLr/KH-Rehan.png" alt="KH-Rehan" border="0"></p>
-
-<!--Color Border -->
-<a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
-
-
-<div align="center">
-
-| **Category**             | **Skills**                                                      |
-|--------------------------|-----------------------------------------------------------------|
-| 🛠️ **Frontend Development** | HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, DaisyUI, ReactJS |
-| 🔗 **Backend & Database**   | Firebase, MongoDB, ExpressJS                                    |
-| ⚙️ **Tools & Libraries**    | Git, RESTful APIs, DOM Manipulation                             |
-| 🚀 **Additional Expertise** | Responsive Design, API Integration, Debugging                   |
-| 🧩 **Other Technologies**   | Python, Django                                                  |
-
-</div>
-
-<!--Color Border -->
-<a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
-
-## 🔗: Social Links:
-
-###
+<!-- Social Links-->
 <div align="center"> 
   <!-- FaceBook-->
   <a href="https://www.facebook.com/kh.rehan207">
@@ -82,6 +56,34 @@
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> 
   </a>
 </div>
+<br/>
+<br/>
+<!--Portfolio image-->
+<p align="center"><img src="https://i.ibb.co.com/8MBfnLr/KH-Rehan.png" alt="KH-Rehan" border="0"></p>
+
+<!--Color Border -->
+<a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
+
+
+<div align="center">
+
+| **Category**             | **Skills**                                                      |
+|--------------------------|-----------------------------------------------------------------|
+| 🛠️ **Frontend Development** | HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, DaisyUI, ReactJS |
+| 🔗 **Backend & Database**   | Firebase, MongoDB, ExpressJS                                    |
+| ⚙️ **Tools & Libraries**    | Git, RESTful APIs, DOM Manipulation                             |
+| 🚀 **Additional Expertise** | Responsive Design, API Integration, Debugging                   |
+| 🧩 **Other Technologies**   | Python, Django                                                  |
+
+</div>
+
+<!--Color Border -->
+<a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
+
+## 🔗: Social Links:
+
+###
+
 
 ***<p align="center"> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://kh-rehan-portfolio.netlify.app/)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/)</p>***
 
