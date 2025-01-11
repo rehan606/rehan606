@@ -13,6 +13,7 @@
 <!--<h4 align="center">Hi there 👋, I'm Rehan<br>Creative Frontend Web-Developer !</h4>-->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Rehan!;" /> <br>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Creative-Fronend%20web%20developer;Experienced%20React%20NodeJs%20MongoDB%20Firebase%20HTML%20CSS%20Tailwind%20Javascript%20;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   <span align="center">Creative Frontend Web-Developer !</span>
   <h3 align="center"><a href="https://kh-rehan-portfolio.netlify.app/">Portfolio</a> 
 
@@ -71,8 +72,8 @@
   <a href="https://www.facebook.com/kh.rehan207" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank" />
   </a>
-  <!-- GitHub-->
-  <a href="https://rehan606.github.io" target="_blank">
+  <!-- Portfolio-->
+  <a href="https://kh-rehan-portfolio.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
   <!-- Twitter -->
@@ -81,18 +82,8 @@
   </a>
 </div>
 
-<!--Color Border -->
-<a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
+***<p align="center"> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://kh-rehan-portfolio.netlify.app/)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/)</p>***
 
-## :mailbox: Contact with Me
-<br/>
-<br/>
-
-***<p align="center"> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://rehan606.github.io/Personal-Portfolio/)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/)</p>***
-
-<br/>
-<br/>
--->
 <!--Color Border -->
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
 
@@ -164,10 +155,7 @@
 <a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehan606&theme=github&hide_border=true"  width="64%" alt="@REHAN's profile-details"/></a>
 </p>
 
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rehan606&theme=nightowl)](https://git.io/streak-stats)
- ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) -->
-
+<!--Color Border -->
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
 
 ## 🧍: Profile Visit
@@ -175,6 +163,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/rehan606/count.svg?"  />
 </div>
+
+<!--Color Border -->
+<a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
 
 
 
