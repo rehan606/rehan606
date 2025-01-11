@@ -172,11 +172,22 @@
   <img src="https://profile-counter.glitch.me/rehan606/count.svg?"  />
 </div>
 
+<a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
 
 ## 📊: Streak and Contributions
 
-<img align="right" height="200" border="5" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  /> [![GitHub Streak](https://streak-stats.demolab.com/?user=rehan606&theme=nightowl)](https://git.io/streak-stats)
-<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) -->
+<img align="right" height="200" border="5" src="https://github.com/rehan606/rehan606/blob/main/Images/Profile.jpg?raw=true"  />
+
+<p align="center">
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rehan606&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rehan606&theme=github&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehan606&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehan606&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+</p>
+
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rehan606&theme=nightowl)](https://git.io/streak-stats)
+ ![GitHub streak stats](https://streak-stats.demolab.com/?user=rehan606) -->
 
 
 
