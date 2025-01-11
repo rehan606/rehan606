@@ -170,22 +170,26 @@
 
 <p align="center">
     <a href="https://www.codewars.com/users/rehan606">
-        <img alt="codewars badge" src="https://www.codewars.com//users/rehan606/badges/large">
+        <img alt="codewars badge" src="https://www.codewars.com//users/Aleksey-Voko/badges/large">
     </a>
 </p>
 
-
 <p align="center">
 <a href="https://wakatime.com/@Voko"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/rehan606?tab=following"><img src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
+<a href="https://github.com/rehan606?tab=following"><img src="https://avatars.githubusercontent.com/u/66823918?v=4?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/rehan606?tab=followers"><img src="https://img.shields.io/github/followers/rehan606?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
 
 <p align="center">
-<a href="https://stackexchange.com/users/17728350/rehan606?tab=accounts#gh-dark-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=dark" width="208" height="58" alt="Профиль участника REHAN в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника REHAN в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
+<a href="https://stackexchange.com/users/17728350/rehan606?tab=accounts#gh-dark-mode-only">
+  <img src="https://stackexchange.com/users/flair/17728350.png?theme=dark" width="208" height="58" alt="Профиль участника REHAN в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника REHAN в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом">
+</a>
+  
 <a href="https://stackexchange.com/users/17728350/rehan606?tab=accounts#gh-light-mode-only"><img src="https://stackexchange.com/users/flair/17728350.png?theme=light" width="208" height="58" alt="Профиль участника REHAN в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Aleksey Voko в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
+
 <a href="https://stackoverflow.com/users/13531449/rehan606#gh-dark-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=dark&layout=compact"></a>
+
 <a href="https://stackoverflow.com/users/13531449/rehan606#gh-light-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=13531449&theme=light&layout=compact"></a>
 </p>
 
