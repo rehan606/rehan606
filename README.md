@@ -137,7 +137,7 @@
 <a href="https://play.kotlinlang.org"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="play.kotlinlang.org"/></a>
 
 <!-- activity graph heroku-app start -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rehan606&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rehan606&theme=dark)](https://git.io/streak-stats)
 <!-- activity graph heroku-app end -->
 
 <!--Color Border -->
