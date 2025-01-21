@@ -137,14 +137,7 @@
 <a href="https://play.kotlinlang.org"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="play.kotlinlang.org"/></a>
 
 <!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@Voko#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan606&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-    <a href="https://wakatime.com/@Voko#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan606&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rehan606&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 <!-- activity graph heroku-app end -->
 
 <!--Color Border -->
