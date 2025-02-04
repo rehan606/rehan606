@@ -109,10 +109,6 @@
   <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/React.png"/>
   <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/ReactRouterDom.png"/>
   <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Firebase.png"/>
-  <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Nodejs.png"/>
-  <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/Express.png"/>
-  <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/MongoDB.png"/>
-  <img height="150" src="https://github.com/rehan606/rehan606/blob/main/Images/JWT.png"/>
 </p>
 
 <p align="center">
