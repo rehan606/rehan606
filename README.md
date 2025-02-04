@@ -130,9 +130,11 @@
 <a href="https://github.com/rehan606?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=rehan606&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Rehan's github-readme-stats"/></a>
 <a href="https://github.com/rehan606?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=rehan606&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Rehan's github-readme-stats"/></a>
 <a href="https://github.com/rehan606?tab=stars#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=rehan606&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+<!--
 <a href="https://github.com/rehan606?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=rehan606&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rehan606&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rehan606&theme=dark)](https://git.io/streak-stats)
 
 </p>
 
