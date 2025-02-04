@@ -61,14 +61,32 @@
 </div>
 <br/>
 <br/>
-## 🚀 Current Activities  
+## 🚀 Current Activities & 📊 Top Languages  
 
-- 🔥 Exploring **Next.js** for modern web development.  
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### 🔥 Current Activities  
+- 🚀 Exploring **Next.js** for modern web development.  
 - 🌍 Developing a **tourism website** with interactive features.  
-- 💻 Working on **dynamic and responsive** web applications.  
-- 🔧 Integrating **APIs** and enhancing functionality in projects.
-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan606&theme=gotham&layout=compact )
+- 💻 Building **dynamic & responsive** web applications.  
+- 🔧 Integrating **APIs** and enhancing functionality.  
+
+</td>
+<td>
+
+### 📊 Top Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan606&theme=gotham&layout=compact" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <br/>
 <br/>
 <!--Portfolio image-->
