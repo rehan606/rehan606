@@ -62,15 +62,14 @@
 <br/>
 <br/>
 ## 🚀 Current Activities  
-<p align="left" width="50%">
+<p align="left"  width="50%">
 - 🔥 Exploring **Next.js** for modern web development.  
 - 🌍 Developing a **tourism website** with interactive features.  
 - 💻 Working on **dynamic and responsive** web applications.  
 - 🔧 Integrating **APIs** and enhancing functionality in projects.  
 </p>
-<p align="right" width="50%">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan606&theme=gotham&layout=compact )
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan606&theme=gotham&layout=compact )
 <br/>
 <br/>
 <!--Portfolio image-->
