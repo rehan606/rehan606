@@ -61,6 +61,15 @@
 </div>
 <br/>
 <br/>
+## 🚀 Current Activities  
+
+- 🔥 Exploring **Next.js** for modern web development.  
+- 🌍 Developing a **tourism website** with interactive features.  
+- 💻 Working on **dynamic and responsive** web applications.  
+- 🔧 Integrating **APIs** and enhancing functionality in projects.  
+
+<br/>
+<br/>
 <!--Portfolio image-->
 <p align="center"><img src="https://i.ibb.co.com/8MBfnLr/KH-Rehan.png" alt="KH-Rehan" border="0"></p>
 
