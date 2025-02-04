@@ -67,6 +67,7 @@
 - 🌍 Developing a **tourism website** with interactive features.  
 - 💻 Working on **dynamic and responsive** web applications.  
 - 🔧 Integrating **APIs** and enhancing functionality in projects.  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan606&theme=gotham&layout=compact)
 
 <br/>
 <br/>
