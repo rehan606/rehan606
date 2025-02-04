@@ -3,7 +3,7 @@
   <p> বিসমিল্লাহির রাহমানির রাহীম </p>
 </div>
 <div align="center">
-  <img height="350" width="1000"  src="https://github.com/rehan606/rehan606/blob/main/Images/new%20Cover.png?raw=true"  />
+  <img height="350" width="1000"  src="https://github.com/rehan606/rehan606/blob/main/Images/cover.png?raw=true"  />
 </div>
 
 
