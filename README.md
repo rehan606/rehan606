@@ -61,7 +61,7 @@
 </div>
 <br/>
 <br/>
-## 🚀 Current Activities & 📊 Top Languages  
+
 
 <div align="center">
 
