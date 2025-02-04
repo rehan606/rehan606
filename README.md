@@ -73,7 +73,7 @@
 | **Category**             | **Skills**                                                      |
 |--------------------------|-----------------------------------------------------------------|
 | 🛠️ **Frontend Development** | HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, DaisyUI, ReactJS |
-| 🔗 **Backend & Database**   | Firebase, MongoDB, ExpressJS                                    |
+| 🔗 **Backend & Database**   | NodeJS, ExpressJS, MongoDB, Firebase                                    |
 | ⚙️ **Tools & Libraries**    | Git, RESTful APIs, DOM Manipulation                             |
 | 🚀 **Additional Expertise** | Responsive Design, API Integration, Debugging                   |
 | 🧩 **Other Technologies**   | Python, Django                                                  |
