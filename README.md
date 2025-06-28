@@ -70,7 +70,7 @@
 <td>
 
 ### 🔥 Current Activities  
-- 🌍 Developing a **Multivendor E-commerce website** with NEXT.js and interactive features.  
+- 🌍 Developing a **E-commerce website** with **NEXT.js** and interactive features.  
 - 🚀 Exploring **Next.js** for modern web development.  
 - 💻 Building **dynamic & responsive** web applications.  
 - 🔧 Integrating **APIs** and enhancing functionality.  
