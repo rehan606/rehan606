@@ -70,8 +70,8 @@
 <td>
 
 ### 🔥 Current Activities  
+- 🌍 Developing a **Multivendor E-commerce website** with NEXT.js and interactive features.  
 - 🚀 Exploring **Next.js** for modern web development.  
-- 🌍 Developing a **tourism website** with interactive features.  
 - 💻 Building **dynamic & responsive** web applications.  
 - 🔧 Integrating **APIs** and enhancing functionality.  
 
@@ -100,7 +100,7 @@
 
 | **Category**             | **Skills**                                                      |
 |--------------------------|-----------------------------------------------------------------|
-| 🛠️ **Frontend Development** | HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, DaisyUI, ReactJS |
+| 🛠️ **Frontend Development** | HTML, CSS, JavaScript, Tailwind CSS, ReactJS, NextJS, TypeScript |
 | 🔗 **Backend & Database**   | NodeJS, ExpressJS, MongoDB, Firebase                                    |
 | ⚙️ **Tools & Libraries**    | Git, RESTful APIs, DOM Manipulation                             |
 | 🚀 **Additional Expertise** | Responsive Design, API Integration, Debugging                   |
