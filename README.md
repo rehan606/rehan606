@@ -113,9 +113,9 @@
 ###
 
 
-***<p align="center "> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://kh-rehan-portfolio.netlify.app/)
-[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)
-[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/) </p>***
+***<p align="center "> [<img height="55" width="200" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://kh-rehan-portfolio.netlify.app/)
+[<img height="55" width="200" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)
+[<img height="55" width="200" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/) </p>***
 
 <!--Color Border -->
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
