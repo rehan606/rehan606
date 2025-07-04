@@ -6,7 +6,7 @@
   <img height="350" width="1000"  src="https://github.com/rehan606/rehan606/blob/main/Images/cover.png?raw=true"  />
 </div>
 
-
+-
 ###
 
 <!--<h4 align="center">Hi there 👋, I'm Rehan<br>Creative Frontend Web-Developer !</h4>-->
@@ -15,7 +15,7 @@
   <p align="center">Creative Frontend Web-Developer !</p> 
   <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 
-
+<!--<h3 align="center"><a href="https://kh-rehan-portfolio.netlify.app/">Portfolio</a> -->
 
 </h1>
  
@@ -113,7 +113,9 @@
 ###
 
 
-***<p align="center"> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://kh-rehan-portfolio.netlify.app/)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/)</p>***
+***<p align="center "> [<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/website.png?raw=true">](https://kh-rehan-portfolio.netlify.app/)
+[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/kh.rehan207)
+[<img height="55" src="https://github.com/rehan606/rehan606/blob/main/Images/linkedin.png?raw=true">](https://www.linkedin.com/in/kh-rehan207/) </p>***
 
 <!--Color Border -->
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
