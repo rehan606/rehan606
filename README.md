@@ -180,7 +180,7 @@
 
 
 
-## 🌼 GitHub Contribution Summary New
+## 🌼 GitHub Contribution Summary
 
 <p align="center">
   <!-- 🔥 Streak Stats (Dark Mode) -->
