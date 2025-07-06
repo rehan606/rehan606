@@ -150,6 +150,7 @@
 <!--Color Border -->
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
 
+<!--
 ## 🌼: GitHub Repository Status
 
 <a align="center">
@@ -201,8 +202,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rehan606&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
   </a>
 
-  <!-- 📈 Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehan606&theme=github_dark" alt="GitHub Summary" width="98%" />
+  
 </p>
 
 
