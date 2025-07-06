@@ -177,6 +177,51 @@
 -->
 
 
+
+
+## 🌼 GitHub Contribution Summary New
+
+<p align="center">
+  <!-- 🔥 Streak Stats (Dark Mode) -->
+  <a href="https://github.com/rehan606#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan606&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="48%" />
+  </a>
+
+  <!-- 🔥 Streak Stats (Light Mode) -->
+  <a href="https://github.com/rehan606#gh-light-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan606&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="48%" />
+  </a>
+
+  <!-- 📊 GitHub Stats -->
+  <a href="https://github.com/rehan606#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=rehan606&show_icons=true&theme=gotham&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  </a>
+
+  <a href="https://github.com/rehan606#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=rehan606&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  </a>
+
+  <!-- 📈 Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehan606&theme=github_dark" alt="GitHub Summary" width="98%" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--Color Border-->
 <a href="https://play.kotlinlang.org"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="play.kotlinlang.org"/></a>
 
