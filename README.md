@@ -154,9 +154,9 @@
 
 <p align="center" >
 <!-- Left side -->
-<a href="https://github.com/rehan606?tab=repositories#gh-dark-mode-only">
+<!-- <a href="https://github.com/rehan606?tab=repositories#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=rehan606&cache_seconds=10&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Rehan's github-readme-stats"/>
-</a>
+</a> -->
 
 <!--
 
