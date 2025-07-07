@@ -154,35 +154,6 @@
 
 ## 🌼 GitHub Contribution Status
 
-<p align="center">
-  <!-- 🔥 Streak Stats (Dark Mode) -->
-  <a href="https://github.com/rehan606#gh-dark-mode-only">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan606&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="48%" />
-  </a>
-
-  <!-- 🔥 Streak Stats (Light Mode) -->
-  <a href="https://github.com/rehan606#gh-light-mode-only">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan606&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="48%" />
-  </a>
-
-  <!-- 📊 GitHub Stats -->
-  <a href="https://github.com/rehan606#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=rehan606&show_icons=true&theme=gotham&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  </a>
-
-  <a href="https://github.com/rehan606#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=rehan606&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  </a>
-
-  
-</p>
-
-
-
-
-
-## 🌼 GitHub Contribution Status
-
 <table border="1" align="center">
   <tr>
     <td>
@@ -213,7 +184,10 @@
 <a href="https://play.kotlinlang.org"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="play.kotlinlang.org"/></a>
 
 <!-- activity graph heroku-app start -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rehan606&bg_color=0d1117&color=0bdacc&line=00fac8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p border="1" align="center">
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rehan606&bg_color=0d1117&color=0bdacc&line=00fac8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
+
 <!-- activity graph heroku-app end -->
 
 <!--Color Border -->
