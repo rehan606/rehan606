@@ -183,12 +183,9 @@
 <!--Color Border-->
 <a href="https://play.kotlinlang.org"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="play.kotlinlang.org"/></a>
 
-<!-- activity graph heroku-app start -->
-<p border="1" align="center">
-  
+<!-- activity graph heroku-app start --> 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rehan606&bg_color=0d1117&color=0bdacc&line=00fac8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</p>
+
 
 <!-- activity graph heroku-app end -->
 
