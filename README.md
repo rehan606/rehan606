@@ -14,9 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Rehan!;" /> <br>
   <p align="center">Creative Frontend Web-Developer !</p> 
   <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-
-
-
 </h1>
  
 
@@ -172,7 +169,6 @@
 </table>
 
 
-
 <!--Color Border-->
 <a href="https://play.kotlinlang.org"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="play.kotlinlang.org"/></a>
 
@@ -205,17 +201,6 @@
 </div>
 
 
-
 <!--Color Border -->
 <a href="https://rextester.com/l/python3_online_compiler"><img src="https://github.com/rehan606/rehan606/blob/main/Images/colored.png?raw=true"  width="100%" alt="python3_online_compiler"/></a>
-
-
-
-
-
-
-
-
-
-
 
