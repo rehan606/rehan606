@@ -5,8 +5,7 @@
 <div align="center">
   <img height="350" width="1000"  src="https://github.com/rehan606/rehan606/blob/main/Images/cover.png?raw=true"  />
 </div>
--
-###
+
 
 <!--<h4 align="center">Hi there 👋, I'm Rehan<br>Creative Frontend Web-Developer !</h4>-->
 <h1 align="center">
@@ -15,8 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </h1>
  
--
-###
+
 
 <p align="left">I am a Frontend Web Developer dedicated to creating error-free websites and ensuring 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as openly as possible. I love solving real-world problems. I am strategic, goal-oriented, and always work with a specific objective in mind. I take pride in delivering high-quality work and maintaining excellent communication.</p>
 
