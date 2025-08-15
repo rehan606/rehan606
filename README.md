@@ -6,6 +6,8 @@
   <img height="350" width="1000"  src="https://github.com/rehan606/rehan606/blob/main/Images/cover.png?raw=true"  />
 </div>
 
+<hr></hr>
+
 
 <!--<h4 align="center">Hi there 👋, I'm Rehan<br>Creative Frontend Web-Developer !</h4>-->
 <h1 align="center">
