@@ -19,6 +19,7 @@
 
 <p align="left">I am a Frontend Web Developer dedicated to creating error-free websites and ensuring 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as openly as possible. I love solving real-world problems. I am strategic, goal-oriented, and always work with a specific objective in mind. I take pride in delivering high-quality work and maintaining excellent communication.</p>
 
+
 ###
 <!-- Social Links-->
 <div align="center"> 
